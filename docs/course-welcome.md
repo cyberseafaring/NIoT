@@ -2,7 +2,7 @@
 
 # Welcome to Nautical Internet of Things 👋🏼  
 
-This course designed for sophomore students majoring in Nautical Technology, delves into the transformative world of the Internet of Things (IoT) and its specialized application in maritime operations – Nautical IoT (NIoT). Through a comprehensive exploration of IoT's evolution and integration with cutting-edge technologies like edge computing, cloud computing, artificial intelligence, and blockchain, students will gain an in-depth understanding of how these innovations are revolutionizing maritime practices.
+This course designed for sophomore students majoring in Navigation Technology (Dalian Maritime University), delves into the transformative world of the Internet of Things (IoT) and its specialized application in maritime operations – Nautical IoT (NIoT). Through a comprehensive exploration of IoT's evolution and integration with cutting-edge technologies like edge computing, cloud computing, artificial intelligence, and blockchain, students will gain an in-depth understanding of how these innovations are revolutionizing maritime practices.
 
 The course starts by tracing the development of IoT, highlighting the leaps in communication technologies and hardware advancements that have paved the way for IoT's modernization. Students will explore how IoT's fusion with other technologies has created a multifunctional and efficient ecosystem, significantly enhancing the capabilities of IoT systems.
 
