@@ -1,4 +1,4 @@
-- [Welcome NIoT](course-welcome)
+- [欢迎来到 NIoT](course-welcome)
 - [引言](zh-cn/Chapter-00.md)
 - [第一章 物联网技术概述](zh-cn/Chapter-01.md)
 - [第二章 船载传感器基础](zh-cn/Chapter-02.md)
