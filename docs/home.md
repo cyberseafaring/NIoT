@@ -1,3 +1,9 @@
+![Welcome sign](images/belinda-fewings-6wAGwpsXHE0-unsplash.jpg ':class=banner-image')
+
+# Welcome to Nautical Internet of Things 👋🏼  
+
+# This course from Dalian Maritime University
+
 > # What’s Happening This Week
 > ## How to explore the problem space?
 > ### Important Reminders
