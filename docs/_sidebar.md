@@ -8,10 +8,12 @@
 - [第六章 船联网与船舶导航](zh-cn/Chapter-06.md)
 - [第七章 船联网与绿色航运](zh-cn/Chapter-07.md)
 - [第八章 船联网实践案例](zh-cn/Chapter-08.md)
-- [Week 1 (May 9 - 15)](module-01)
-- [Week 2 (May 16 - 22)](module-02)
-- [Week 3 (May 23 - 29)](module-03)
-- [Week 4 (May 30 - Jun 5)](module-04)
+- [课程总结](zh-cn/README.md)
+- **课后作业**
+- [作业 1 (第二周提交)](module-01)
+- [作业 2 (第四周提交)](module-02)
+- [作业 3 (第六周提交)](module-03)
+- [作业 4 (第八周提交)](module-04)
 - **LMS Links**
 - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Calendar](https://canvas.sfu.ca/courses/44038/calendar)
 - [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080)Assignments](https://canvas.sfu.ca/courses/44038/assignments )
