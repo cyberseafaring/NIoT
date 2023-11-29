@@ -50,10 +50,11 @@
 ![Rotterdam_example](../images/Rotterdam_example.jpg "Rotterdam_example")
 https://www.portofrotterdam.com/en/news-and-press-releases/port-rotterdam-puts-internet-things-platform-operation#:~:text=31%20January%202019%20Share%20this,and%20efficiency%20a%20step%20further
 -->
-<figure style="text-align: center;">
+<!-- <figure style="text-align: center;">
   <img src="../images/Rotterdam_example.jpg" alt="Rotterdam_example" style="width:80%">
   <figcaption>图 1-1-1 鹿特丹港区物联网实践 (来源：鹿特丹港官网)</figcaption>
-</figure>
+</figure> -->
+![Welcome sign](../images/Rotterdam_example.jpg.jpg':class=banner-image')
 
 >鹿特丹港物联网平台的核心是其超精确的数据处理能力。它结合了边缘计算、实时分析、人工智能和区块链等最新技术，为港口的持续发展提供了强大支持。码头、航道、导航标志（航标）中的传感器不断采集数据，这些数据能与其他自主系统通信，为自主航运铺平了道路。水文气象系统通过44个传感器，提供潮汐、风速、风向等数据，优化了船只的停泊、装卸和离港时间。这不仅减少了等待时间，还提高了港区整体运行效率。每天，该平台处理约120万个数据点，服务于引航服务、港口当局的不同部门。在罗纳德·保罗的指导下，这个物联网平台不仅逐步在改变鹿特丹港的生产过程，还标志着向更智慧、更高效的港口管理迈出了坚实的一步。
 
