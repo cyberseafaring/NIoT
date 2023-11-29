@@ -1,4 +1,4 @@
-![Welcome sign](images/belinda-fewings-6wAGwpsXHE0-unsplash.jpg ':class=banner-image')
+![Welcome sign](images/welcome_intelligent_shipping.png ':class=banner-image')
 
 # Welcome to Nautical Internet of Things 👋🏼  
 
