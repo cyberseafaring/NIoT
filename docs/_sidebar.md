@@ -1,4 +1,13 @@
-- [Course Welcome](course-welcome)
+- [Welcome NIoT](course-welcome)
+- [引言](zh-cn/Chapter-00.md)
+- [第一章 物联网技术概述](zh-cn/Chapter-01.md)
+- [第二章 船载传感器基础](zh-cn/Chapter-02.md)
+- [第三章 船联网通信技术](zh-cn/Chapter-03.md)
+- [第四章 船联网系统组成](zh-cn/Chapter-04.md)
+- [第五章 船联网云边端协同技术](zh-cn/Chapter-05.md)
+- [第六章 船联网与船舶导航](zh-cn/Chapter-06.md)
+- [第七章 船联网与绿色航运](zh-cn/Chapter-07.md)
+- [第八章 船联网实践案例](zh-cn/Chapter-08.md)
 - [Week 1 (May 9 - 15)](module-01)
 - [Week 2 (May 16 - 22)](module-02)
 - [Week 3 (May 23 - 29)](module-03)
@@ -9,10 +18,3 @@
 - [![Quizzes Icon](https://icongr.am/fontawesome/check-circle.svg?size=16&color=808080)Quizzes](https://canvas.sfu.ca/courses/44038/quizzes)
 - [![Class Discussions Icon](https://icongr.am/fontawesome/comments-o.svg?size=16&color=808080)Class Discussions](https://canvas.sfu.ca/courses/44038/discussion_topics)
 - [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=808080)Syllabus](https://canvas.sfu.ca/courses/44038/assignments/syllabus)
-- **Project Info**
-  - [GitHub Repository](https://github.com/hibbitts-design/docsify-open-course-starter-kit/)
-  - [ReadMe](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/README.md)
-
-<form action="https://github.com/hibbitts-design/docsify-open-course-starter-kit/generate" target="_blank">
-  <input type="submit" value="Use this Template on GitHub" style="cursor: pointer;margin-top:12px;padding:8px;background-color:#FFFFFF;border:1px solid #0374B5;border-radius:.25rem;color:#0374B5;display:inline-block;text-align:center;text-decoration:none;width:250px;-webkit-text-size-adjust:none;mso-hide:all;" />
-</form>
