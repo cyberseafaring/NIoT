@@ -114,6 +114,16 @@ https://www.portofrotterdam.com/en/news-and-press-releases/port-rotterdam-puts-i
 
 ### 1.3.3 智慧城市
 
+城市大脑 -- 杭州 阿里巴巴平台等
+
 ### 1.3.4 智慧交通
 
+百度Appolo平台
+
 ## 1.4 物联网基本架构
+
+感知层
+
+传输层
+
+计算层（决策层）
