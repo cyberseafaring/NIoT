@@ -1,5 +1,5 @@
 * [课程安排](schedule.md)
 * [电子资源](resources.md)
-* [实践主题](topics.md)
+* [可选项目](topics.md)
 * [实践指导](ux-techniques-guide.md)
 * [联系](contact.md)
