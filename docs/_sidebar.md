@@ -1,20 +1,20 @@
-- [欢迎来到 NIoT](course-welcome)
-- **船联网**
+- **《船联网技术基础》教材**
 - [第一章 什么是船联网](context/chapter_01.md)
 - [第二章 船联网组成](context/chapter_02.md)
 - [第三章 船联网感知基础](context/chapter_03.md)
 - [第四章 船联网通信基础](context/chapter_04.md)
 - [第五章 船联网应用](context/chapter_05.md)
 - [第六章 发展与展望](context/chapter_06.md)
-- **Nautical IoT**
+- **《船联网》延伸阅读**
+- [欢迎来到 NIoT](course-welcome.md)
 - [引言](zh-cn/Chapter-00.md)
 - [第一章 物联网技术概述](zh-cn/Chapter-01.md)
 - [第二章 船载传感器基础](zh-cn/Chapter-02.md)
 - [第三章 船联网通信技术](zh-cn/Chapter-03.md)
-- [第四章 船联网系统组成](zh-cn/Chapter-04.md)
-- [第五章 船联网云边端协同技术](zh-cn/Chapter-05.md)
-- [第六章 船联网与船舶导航](zh-cn/Chapter-06.md)
-- [第七章 船联网与绿色航运](zh-cn/Chapter-07.md)
+- [第四章 船联网云边端协同技术](zh-cn/Chapter-04.md)
+- [第五章 船联网系统范式](zh-cn/Chapter-05.md)
+- [第六章 船联网导助航技术](zh-cn/Chapter-06.md)
+- [第七章 船联网绿色航运展望](zh-cn/Chapter-07.md)
 - [第八章 船联网实践案例](zh-cn/Chapter-08.md)
 - [课程总结](zh-cn/README.md)
 - **课后作业**
