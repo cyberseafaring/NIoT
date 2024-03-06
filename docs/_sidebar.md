@@ -1,10 +1,12 @@
 - **《船联网技术基础》教材**
-- [第一章 什么是船联网](context/chapter_01.md)
-- [第二章 船联网组成](context/chapter_02.md)
-- [第三章 船联网感知基础](context/chapter_03.md)
+- [前言](context/preface.md)
+- [第一章 船联网概述](context/chapter_01.md)
+- [第二章 船联网体系架构](context/chapter_02.md)
+- [第三章 船联网感知技术](context/chapter_03.md)
 - [第四章 船联网通信基础](context/chapter_04.md)
-- [第五章 船联网应用](context/chapter_05.md)
-- [第六章 发展与展望](context/chapter_06.md)
+- [第五章 船联网数据处理](context/chapter_05.md)
+- [第六章 船联网应用系统](context/chapter_06.md)
+- [第七章 船联网与绿色智能航运](context/chapter_07.md)
 - **《船联网》延伸阅读**
 - [欢迎来到 NIoT](course-welcome.md)
 - [引言](zh-cn/Chapter-00.md)
