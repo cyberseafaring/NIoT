@@ -1,9 +1,17 @@
 # Resources
 
-## Reflective Writing  
-*   [A short guide to reflective writing](https://intranet.birmingham.ac.uk/as/libraryservices/library/skills/asc/documents/public/Short-Guide-Reflective-Writing.pdf)
-*   [How Reflecting On Your Work Can Make You A Better Designer](https://medium.com/center-centre-cohort-01/how-reflecting-on-your-work-can-make-you-a-better-designer-5ce2f3886f51)
-*   [Online Guide to Reflective Writing](https://nile.northampton.ac.uk/bbcswebdav/pid-1244383-dt-content-rid-3278540_1/courses/Centre-for-Achievement-and-Performance/Skills/Reflective%20Writing/Reflective%20Writing%20-%20Feb%202017.pdf)
+## Autonomous Surface Vehicle 小型无人船项目资源
+
+包括从波浪驱动到混合动力，从学术研究到军事应用。
+
+*   [Liquid Robotics Wave Glider 波浪滑翔机](https://www.boeing.com/defense/autonomous-systems/wave-glider#overview)
+波浪滑翔机是长期的海洋机器人，可帮助科学家，企业和政府获得新的见解并改善决策。这些ASV在海面上运行，提供了海洋、空气和空间之间的基本联系。他们扩展了我们收集海洋数据，桥接数据，并可以将海底传感器数据转换为实时信息源。
+
+*   [AutoNaut](https://www.autonautusv.com/)
+
+*   [L3Harris C-Enduro ASV](hextension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=https%3A%2F%2Funmannedsystemstechnology.com%2Fwp-content%2Fuploads%2F2013%2F12%2FC-Enduro-brochure.pdf)
+C-Enduro 是一种柴油电力混合动力的无人船，具有长航时、高负载能力。它由 ASV Global (后被 L3Harris 收购) 开发，主要用于海洋调查、环境监测、安全巡逻等任务。C-Enduro 具有自主导航、避障和远程控制功能，可以在复杂的海况下运行。
+
 *   [Reflective Toolbox](http://writeonline.ca/media/documents/ReflectiveToolbox.pdf)
 *   [Reflective writing: a basic introduction](http://www.port.ac.uk/media/contacts-and-departments/student-support-services/ask/downloads/Reflective-writing---a-basic-introduction.pdf)
 

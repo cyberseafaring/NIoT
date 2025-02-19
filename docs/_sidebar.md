@@ -24,6 +24,10 @@
 - [作业 2 (第四周提交)](module-02)
 - [作业 3 (第六周提交)](module-03)
 - [作业 4 (第八周提交)](module-04)
+- [作业 5 (第十周提交)](module-05)
+- [作业 6 (第十周提交)](module-06)
+- [作业 7 (第十周提交)](module-07)
+- [作业 8 (第十周提交)](module-08)
 - **DLMU Links**
 - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Calendar](https://canvas.sfu.ca/courses/44038/calendar)
 - [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080)Assignments](https://canvas.sfu.ca/courses/44038/assignments )
